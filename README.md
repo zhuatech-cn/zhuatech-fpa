@@ -64,3 +64,7 @@ npm run dev:demo
 | ![知华科技微信咨询二维码一](docs/images/zhuatech-wechat-consulting.png) | ![知华科技微信咨询二维码二](docs/images/zhuatech-wechat-consulting-2.png) |
 
 关键词：FPA 系统源码、财务规划分析、预算管理系统、滚动预测、经营分析、Java FPA、Vue 预算系统、知华科技。
+
+## 全年滚动预测
+
+新增 `POST /api/fpa/insights/rolling-forecast`，汇总年初至今实际、剩余承诺和预测支出，计算全年预计、预算偏差率并输出 `ON_PLAN`、`WATCH` 或 `REFORECAST`，辅助月度经营分析。
