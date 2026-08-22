@@ -1,4 +1,4 @@
-/* Copyright 2026 上海如静知华信息科技有限公司 */
+/* Copyright 2026 上海如静知华信息科技有限公司 · https://www.zhuatech.cn/ */
 export const domain={
  code:'FPA',systemName:'财务规划与分析平台',englishName:'FINANCIAL PLANNING & ANALYSIS',theme:{primary:'#1f5b83',dark:'#17364d',accent:'#c47a36'},
  workspace:'集团财务 / 经营计划中心',fieldWorkspace:'消费事业群',period:'2026-08-01 · 预测滚动月',liveText:'合并模型已于 10:24 更新',fieldContextLabel:'当前责任中心',fieldContext:'FY2026 · Rolling 12M',fieldUser:'林悦',fieldRole:'业务财务 BP',adminUser:'沈宁',adminRole:'集团预算经理',

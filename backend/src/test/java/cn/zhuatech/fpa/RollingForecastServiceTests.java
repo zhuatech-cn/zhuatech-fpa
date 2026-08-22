@@ -1,4 +1,4 @@
-/* Copyright 2026 上海如静知华信息科技有限公司 */
+/* Copyright 2026 上海如静知华信息科技有限公司 · https://www.zhuatech.cn/ */
 package cn.zhuatech.fpa;
 import cn.zhuatech.fpa.service.RollingForecastService;import org.junit.jupiter.api.Test;import java.math.*;import static org.junit.jupiter.api.Assertions.*;
 class RollingForecastServiceTests {private final RollingForecastService service=new RollingForecastService();
